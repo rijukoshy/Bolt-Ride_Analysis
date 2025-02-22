@@ -96,10 +96,10 @@ By implementing these recommendations, Bolt can enhance its operational efficien
    ```
 4. **Run the Jupyter Notebook**:
    ```
-   jupyter notebook Uber_Rides_Data_Analysis.ipynb
+   jupyter notebook Bolt Ride.ipynb
    ```
 5. **Review the Documentation and Recommendations**:
-   - Open and review the `Uber_Rides_Data_Analysis_Documentation_and_Recommendations.docx` for detailed documentation and insights.
+   - Open and review the `Bolt_Rides_Data_Analysis_Documentation_and_Recommendations.docx` for detailed documentation and insights.
 
 
    
